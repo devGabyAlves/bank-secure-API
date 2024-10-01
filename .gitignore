@@ -5,3 +5,5 @@ venv/
 storage.db
 
 __pycache__/
+
+.env
