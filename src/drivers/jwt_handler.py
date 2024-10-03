@@ -1,7 +1,7 @@
 import jwt
 from typing import Dict
 from datetime import datetime, timedelta, timezone
-from configs.jwt_configs import jwt_infos
+from src.configs.jwt_configs import jwt_infos
 
 class JwtHandler:
 
